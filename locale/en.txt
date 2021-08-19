@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = FF
+tour.name = HATTA BANK PROJECT-FF
 
 ## Skin
 
@@ -25,7 +25,7 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 2F PRE-FU
 panorama_FE21740A_E609_2460_41D6_9FAC2F9FE5F7.subtitle = 1- Pre-function tables to be provided by the client
 
 ### Title
-map_FF343477_E609_24AF_41B6_B75EB27C1A13.label = FF - Key layout
+map_79DF2BC2_5C09_518B_41A6_1F163303B649.label = FF - Key layout
 panorama_FE21740A_E609_2460_41D6_9FAC2F9FE5F7.label = Note:
 
 ## Action
